@@ -1,0 +1,11 @@
+.panelImage{
+    max-width: 100%;
+    min-height: 100%;
+}
+.card{
+    margin : 20px;
+    padding : 0px;
+    float: left;
+}
+
+
